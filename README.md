@@ -30,4 +30,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 chmod +x ssr.sh
 bash ssr.sh
 
+[引用来源](https://github.com/ToyoDAdoubi/doubi)
 
