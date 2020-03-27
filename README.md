@@ -1,12 +1,5 @@
-# ssr
-
-
-2, google 加速
+google 加速
 wget –no-check-certificate https://github.com/tcp-nanqinlang/lkl-haproxy/releases/download/1.1.1/tcp_nanqinlang-haproxy-centos.sh && bash tcp_nanqinlang-haproxy-centos.sh
-
-
-
-
 
 //--------------------------------------------------------------------------------------------------------------------------------
 
